@@ -1,0 +1,35 @@
+---
+id: 65703851
+name: Debunk
+type: Trap Card
+frameType: trap
+desc: 'When a monster effect is activated in the hand or GY: Negate the activation,
+  and if you do, banish it.'
+race: Counter
+card_sets:
+- set_name: Extreme Victory
+  set_code: EXVC-EN076
+  set_rarity: Super Rare
+  set_rarity_code: "(SR)"
+  set_price: '4.11'
+- set_name: Legendary Collection 5D's Mega Pack
+  set_code: LC5D-EN255
+  set_rarity: Secret Rare
+  set_rarity_code: "(ScR)"
+  set_price: '7.65'
+- set_name: 'Structure Deck: Powercode Link'
+  set_code: SDPL-EN039
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '2.08'
+card_images:
+- id: 65703851
+  image_url: https://images.ygoprodeck.com/images/cards/65703851.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/65703851.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/65703851.jpg
+card_prices:
+- cardmarket_price: '0.19'
+  tcgplayer_price: '0.70'
+  ebay_price: '3.79'
+  amazon_price: '0.89'
+  coolstuffinc_price: '4.99'

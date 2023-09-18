@@ -1,0 +1,31 @@
+---
+id: 41248270
+name: Traffic Ghost
+type: Link Monster
+frameType: link
+desc: 3 monsters
+atk: 1800
+race: Cyberse
+attribute: DARK
+linkval: 3
+linkmarkers:
+- Bottom-Left
+- Bottom
+- Bottom-Right
+card_sets:
+- set_name: 'Structure Deck: Powercode Link'
+  set_code: SDPL-EN041
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.51'
+card_images:
+- id: 41248270
+  image_url: https://images.ygoprodeck.com/images/cards/41248270.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/41248270.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/41248270.jpg
+card_prices:
+- cardmarket_price: '0.11'
+  tcgplayer_price: '0.19'
+  ebay_price: '0.99'
+  amazon_price: '0.99'
+  coolstuffinc_price: '0.49'
